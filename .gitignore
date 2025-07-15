@@ -1,0 +1,6 @@
+# Ignore everything by default
+*
+
+# But do not ignore ai.py and .gitignore itself
+!ai.py
+!.gitignore
