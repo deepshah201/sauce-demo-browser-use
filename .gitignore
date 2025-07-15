@@ -4,3 +4,6 @@
 # But do not ignore ai.py and .gitignore itself
 !ai.py
 !.gitignore
+!README.md
+!demo.mp4
+!demo-thumbnail.png
