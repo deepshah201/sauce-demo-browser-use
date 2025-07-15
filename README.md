@@ -37,11 +37,7 @@ The automation script performs the following steps:
 
 ## ▶ Demo Video
 
-To see the automation in action:
-
-[![Click here to watch the video](demo-thumbnail.png)](demo.mp4)
-
-> 🎥 You can also [**download the demo video directly**](demo.mp4)
+To see the automation in action: https://drive.google.com/drive/folders/19qENn3LOvGBgYtb_nBf1m9gLQZzgGPPX?usp=drive_link
 
 ---
 
